@@ -1,0 +1,27 @@
+<svg id="Baggrund" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 10730 2344">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #263e4c;
+      }
+
+      .cls-2 {
+        fill: #e6e7e8;
+      }
+    </style>
+  </defs>
+  <title>baggrund</title>
+  <ellipse class="cls-1" cx="5365" cy="1172" rx="5365" ry="1172"/>
+  <ellipse class="cls-2" cx="5048" cy="960" rx="75" ry="23"/>
+  <ellipse class="cls-2" cx="5085" cy="981" rx="63" ry="21"/>
+  <ellipse class="cls-2" cx="3285.5" cy="966.5" rx="111.5" ry="19.5"/>
+  <ellipse class="cls-2" cx="3337.5" cy="990" rx="35.5" ry="17"/>
+  <ellipse class="cls-2" cx="3748" cy="947" rx="124" ry="34"/>
+  <ellipse class="cls-2" cx="3610" cy="980.5" rx="87" ry="25.5"/>
+  <ellipse class="cls-2" cx="3985" cy="874" rx="75" ry="23"/>
+  <ellipse class="cls-2" cx="4022" cy="895" rx="63" ry="21"/>
+  <ellipse class="cls-2" cx="4191.5" cy="979.5" rx="111.5" ry="19.5"/>
+  <ellipse class="cls-2" cx="4243.5" cy="1003" rx="35.5" ry="17"/>
+  <ellipse class="cls-2" cx="4626" cy="943" rx="124" ry="34"/>
+  <ellipse class="cls-2" cx="4488" cy="976.5" rx="87" ry="25.5"/>
+</svg>

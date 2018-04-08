@@ -1,0 +1,110 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#scene {
+    width: 100vw;
+    height: 56.25vw;
+    position: relative;
+    overflow: hidden;
+}
+
+#baggrund {
+    width: 100vw;
+    height: 56.25vw;
+    background-image: url(baggrund2-01.svg);
+    background-size: 100%;
+    position: absolute;
+    animation-duration: 10s;
+    animation-timing-function: linear;
+    animation-iteration-count: 1;
+
+}
+
+#skyer {
+    width: 100vw;
+    height: 56.25vw;
+    background-image: url(skyer-01.svg);
+    background-size: 100%;
+    position: absolute;
+    animation-name: skyer-animation;
+    animation-duration: 10s;
+    animation-timing-function: linear;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+#keeper {
+    width: 100vw;
+    height: 56.25vw;
+    background-image: url(keeper-01.svg);
+    background-size: 100%;
+    position: absolute;
+    bottom: -2vw;
+    transform: scale(1.3);
+    animation-name: keeper-animation;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+
+}
+
+#skytte {
+    width: 100vw;
+    height: 56.25vw;
+    background-image: url(skytte-01.svg);
+    background-size: 100%;
+    position: absolute;
+    bottom: -20vw;
+    transform: scale(.7);
+    animation-name: skytte-animation;
+    animation-duration: 5s;
+    animation-timing-function: linear;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+}
+
+#mellemgrund {
+    width: 100vw;
+    height: 56.25vw;
+    background-image: url(mellemgrund-01.svg);
+    background-size: 100%;
+    position: absolute;
+}
+
+#forgrund {
+    width: 100vw;
+    height: 56.25vw;
+    background-image: url(forgrund-01.svg);
+    background-size: 100%;
+    position: absolute;
+}
+
+@keyframes skytte-animation {
+    0% {
+        right: -60vw;
+    }
+    100% {
+        right: 30vw;
+    }
+}
+
+@keyframes keeper-animation {
+    0% {
+        right: 60vw;
+    }
+    100% {
+        right: -33.2vw;
+    }
+}
+
+@keyframes skyer-animation {
+    0% {
+        right: 10vw;
+    }
+    100% {
+        right: -10vw;
+    }
+}

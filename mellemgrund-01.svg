@@ -1,0 +1,97 @@
+<svg id="Mellemgrund" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1366 768">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #26c62e;
+      }
+
+      .cls-2 {
+        fill: #658593;
+      }
+
+      .cls-3 {
+        fill: #423534;
+      }
+
+      .cls-4 {
+        fill: #313a3f;
+      }
+
+      .cls-5 {
+        fill: #eaeac5;
+      }
+
+      .cls-6 {
+        font-size: 12px;
+        font-family: MyriadPro-Regular, Myriad Pro;
+      }
+
+      .cls-7 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-8 {
+        letter-spacing: -0.01em;
+      }
+
+      .cls-9 {
+        letter-spacing: 0em;
+      }
+
+      .cls-10 {
+        fill: #e6e8e6;
+      }
+
+      .cls-11 {
+        fill: #fff;
+      }
+
+      .cls-12, .cls-13 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-12 {
+        stroke: #e6e8e6;
+        stroke-width: 11px;
+      }
+
+      .cls-13 {
+        stroke: #313a3f;
+        stroke-width: 6px;
+      }
+    </style>
+  </defs>
+  <title>mellemgrund</title>
+  <rect class="cls-1" y="414" width="1366" height="354"/>
+  <path class="cls-2" d="M116.17-6.5S81,128,683,145c0,0,561-9,566-154h123V271L-11,272V-9Z"/>
+  <rect class="cls-3" x="-19" y="266" width="1385" height="118"/>
+  <path class="cls-4" d="M0,86c449.48,172.48,905,166.19,1366,0v25C902.4,253.63,446.76,259,0,111Z"/>
+  <rect class="cls-4" x="368.03" y="115.46" width="9.94" height="166.83" transform="translate(163.8 -168.44) rotate(32.27)"/>
+  <rect class="cls-4" x="975.55" y="116.1" width="11.08" height="167.45" transform="translate(47.45 561.47) rotate(-32.69)"/>
+  <path class="cls-4" d="M686,275h-8V146h8Z"/>
+  <path class="cls-4" d="M1366,267Q665.31,290.65,0,267V240c455.25,43.18,912.52,42.2,1366,0Z"/>
+  <ellipse class="cls-5" cx="104" cy="131.52" rx="19.5" ry="14" transform="translate(-54.22 187.03) rotate(-71)"/>
+  <ellipse class="cls-5" cx="188.7" cy="155.13" rx="17.2" ry="12.35" transform="matrix(0.33, -0.95, 0.95, 0.33, -19.42, 283.04)"/>
+  <ellipse class="cls-5" cx="280.46" cy="174.7" rx="14.97" ry="10.75" transform="translate(23.96 383) rotate(-71)"/>
+  <ellipse class="cls-5" cx="1287.36" cy="122.15" rx="14" ry="19.5" transform="translate(-0.15 242.76) rotate(-10.77)"/>
+  <ellipse class="cls-5" cx="1202.12" cy="144.71" rx="12.35" ry="17.2" transform="translate(-5.86 227.23) rotate(-10.77)"/>
+  <ellipse class="cls-5" cx="1112.75" cy="167.29" rx="10.75" ry="14.97" transform="translate(-11.66 210.92) rotate(-10.77)"/>
+  <path d="M1366,372A12967,12967,0,0,0,0,372v68a11670.77,11670.77,0,0,1,1366,0Z"/>
+  <text class="cls-6" transform="translate(268 377)"><tspan class="cls-7">L</tspan><tspan x="5.5" y="0">o</tspan><tspan class="cls-8" x="12.08" y="0">r</tspan><tspan class="cls-9" x="15.89" y="0">em ipsum</tspan></text>
+  <rect class="cls-10" y="486" width="1366" height="14"/>
+  <rect class="cls-11" x="378" y="266" width="607" height="16"/>
+  <rect class="cls-11" x="969" y="266" width="16" height="226"/>
+  <rect class="cls-11" x="952.25" y="432.74" width="7.96" height="63.6" transform="translate(-82.67 690.09) rotate(-38.16)"/>
+  <rect class="cls-11" x="425" y="437" width="515" height="6"/>
+  <rect class="cls-11" x="935" y="300" width="5" height="142"/>
+  <rect class="cls-11" x="951.01" y="273.27" width="4.16" height="39.37" transform="translate(730.25 -678.92) rotate(60)"/>
+  <rect class="cls-11" x="378" y="267" width="16" height="226" transform="translate(772 760) rotate(180)"/>
+  <rect class="cls-11" x="402.8" y="433.74" width="7.96" height="63.6" transform="translate(438.98 1082.92) rotate(-141.84)"/>
+  <rect class="cls-11" x="423" y="301" width="5" height="142" transform="translate(851 744) rotate(180)"/>
+  <rect class="cls-11" x="407.83" y="274.27" width="4.16" height="39.37" transform="translate(869.44 85.94) rotate(120)"/>
+  <rect class="cls-11" x="423" y="300" width="514" height="5"/>
+  <polygon class="cls-12" points="225 493.5 157 609 1208 609 1154 493.5 225 493.5"/>
+  <ellipse class="cls-10" cx="683" cy="665.5" rx="12" ry="5.5"/>
+  <path class="cls-13" d="M116-6S69,128,682,148c0,0,565-9,566-154Z"/>
+</svg>
