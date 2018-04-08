@@ -3,6 +3,54 @@ body {
     padding: 0;
 }
 
+#styletile img {
+    width: 100%;
+
+}
+
+#infoboks {
+    width: 10vw;
+    height: 10vw;
+    background-image: url(infoboks.png);
+
+}
+
+#infoboks img {
+
+    position: absolute;
+}
+
+#infoboks p {
+    position: absolute;
+    color: black;
+    width: 100%;
+
+}
+
+#knap {
+    bottom: -30vw;
+    position: relative;
+    text-align: center;
+    color: white;
+}
+
+#knap p {
+    position: absolute;
+    top: 20%;
+    left: 49%;
+    transform: translate(-50%, -50%);
+    color: blue;
+    font-size: 13vw;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+#aim {
+    transform: translateY(10vw);
+}
+
+
+
 #scene {
     width: 100vw;
     height: 56.25vw;
